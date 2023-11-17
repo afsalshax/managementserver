@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "name": "afsal sha ",
+      "email": "aaaaaaaa@gmail.com",
+      "number": "9090807010",
+      "age": "39",
+      "gender": "male",
+      "category": "accountant",
+      "id": 1
+    },
+    {
+      "name": "arun s pillai",
+      "email": "eeeeee@gmail.com",
+      "number": "879796668",
+      "age": "43",
+      "gender": "male",
+      "category": "manager",
+      "id": 2
+    },
+    {
+      "name": "arjun veer",
+      "email": "vreee@gmail.com",
+      "number": "0908088977",
+      "age": "43",
+      "gender": "male",
+      "category": "digital creator",
+      "id": 3
+    },
+    {
+      "name": "samyuktha",
+      "email": "yuktha@gmail.com",
+      "number": "7868685857",
+      "age": "32",
+      "gender": "female",
+      "category": "media handler",
+      "id": 4
+    },
+    {
+      "name": "ramya veena",
+      "email": "veenean@gmail.com",
+      "number": "54678096432",
+      "age": "23",
+      "gender": "female",
+      "category": "frontend developer",
+      "id": 5
+    }
+  ]
+}
